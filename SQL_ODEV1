@@ -14,7 +14,7 @@
 
 -- 1
 
-SELECT title, description FROM film
+Select title, description FROM film
 
 -- 2
 

@@ -1,2 +1,2 @@
-# SQL patikadev Odevleri
+# SQL patikadev Ödevleri
 https://app.patika.dev/suhasahin
